@@ -2,7 +2,7 @@
 
 A simple, elegant calculator built with **HTML**, **CSS**, and **JavaScript**. This project demonstrates how to implement basic arithmetic operations in a responsive, minimalist design.
 
-## Features
+# Features
 - **Basic Operations:** Addition, Subtraction, Multiplication, Division, and Modulo.
 - **Clear (AC) and Delete (DEL) Buttons:** Reset the input or delete the last character.
 - **Responsive Design:** Works across different screen sizes.
@@ -11,9 +11,11 @@ A simple, elegant calculator built with **HTML**, **CSS**, and **JavaScript**. T
 
 ---
 
-## Demo
+# Demo
 You can use the calculator locally by following the installation steps below.
 
+- **git clone**: It opens a clone of this project into your editor env
+- **make changes of use them accordignly**
 ---
 
 ## Technologies Used
@@ -24,7 +26,7 @@ You can use the calculator locally by following the installation steps below.
 ---
 
 ## Installation and Usage
-1. **Clone the repository** or download the ZIP.
+1. **Clone the repository** or download the ZIP FILE ahead.
    ```bash
    git clone https://github.com/PrakharDoneria/calculator-forked.git
    ```
