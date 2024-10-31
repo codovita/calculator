@@ -54,9 +54,15 @@ Styles the calculator with a gradient background, shadows, and a modern design u
 Contains the logic for the calculator, such as:
 - Handling button clicks.
 - Evaluating the arithmetic expressions using `eval()`.
-- Error handling for invalid operations.
-
 ---
+
+##Proof of Work SS
+this changes needed a lot for user experience 
+![image](https://github.com/user-attachments/assets/6627d53e-6e72-498f-b7d7-895a7011b26c)
+
+
+
+
 
 ## Acknowledgments
 - Inspired by basic calculator projects to demonstrate JavaScript functionality.
